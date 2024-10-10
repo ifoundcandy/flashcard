@@ -1,6 +1,6 @@
 criaCartao(
     'FNAF',
-    'Quais são os principais animatrônicos que aparecem no jogo original de Five Nights at Freddy's?',
+    'Quais são os principais animatrônicos que aparecem no jogo original de Five Nights at Freddys?',
     'Freddy, Bonnie, Chica e Foxy'
 )
 
