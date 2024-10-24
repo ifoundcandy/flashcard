@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'FNAF',
-    'Qual é a história por trás do restaurante Freddy Fazbeaz Pizza e como ela se conecta aos eventos dos jogos?',
+    'Qual é a história por trás do restaurante Freddy Fazbear Pizza e como ela se conecta aos eventos dos jogos?',
     'Freddy Fazbear Pizza é um restaurante familiar onde os animatrônicos se apresentam para entreter as crianças. A história é marcada por eventos trágicos, incluindo o desaparecimento de crianças, que estão relacionados a um serial killer, levando a uma série de acontecimentos sobrenaturais e assombrações.'
 )
 
@@ -20,6 +20,7 @@ criaCartao(
     'FNAF',
     'Henry Emily construiu lefty com o intuito de:',
     'Prender Puppet, que possuia sua filha, Charlie'
+)
 
 criaCartao(
     'Undertale',
